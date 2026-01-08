@@ -1,4 +1,4 @@
-# ML-Premium-Health-Insurance-Predictor
+# ML-Health-Insurance-Premium-Predictor
 
 This project is a health insurance premium prediction system where the user needs to enter some informations like age, gender, income in lakhs etc as input, and the model provides an insurance premium estimate.
 It consists of a frontend Streamlit server and backend python code containing the ML models (XGBoost (for age>25 years) and LinearRegression (for age<=25 years)).
